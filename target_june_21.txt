@@ -1,0 +1,56 @@
+Description
+
+The DXC Cloud (Azure/Linux) Operations Engineer focuses on operating and maintaining the Azure cloud environments of DXC customers as per the environment design and contractual agreements.
+
+The main goals are to deliver agile and secure managed services on Azure cloud platforms, to continuously increase the level of automation and security, to ensure high availability of the service, and to achieve a high level of customer satisfaction.
+The Cloud Operations Engineer is an experienced, multi-skilled professional, who can work within a small team responsible for delivering reactive and proactive operational support end-to-end in DXC-managed cloud environments.
+
+The Cloud Operations Engineer is motivated to take strong ownership on actions, to find innovative ways to improve the services agility and efficiency, and to continuously gain more skills. The DXC-managed cloud environments are envisioned to mature into a DevOps delivery model.
+
+Responsibilities
+
+Supports 24x7 operations of production Azure Cloud environments
+Includes monitoring, incident response, answering service requests, and execution of changes
+Take full ownership of incoming actions and issues and drive them to resolution
+Work within a multi-skilled Cloud Operations team
+Consulting with other team members to extend your reach to get to success
+Proactively and continuously improve the service through
+driving further automation by scripting repeatable tasks
+improving monitoring metrics to detect incidents before they occur
+fixing incident root causes by contributing code fixes or design changes back to the service specifications
+Execute service requests logged by customers within scope of services
+Leverage automation tools and Infrastructure as Code tools to maintain environment and execute changes while adhering to change management process
+Understand and contribute to processes and tools used by team
+Identify areas of operations with quality deficits or automation opportunities and work to improve
+Contribute relevant automation and operation improvements back to development teams
+Skills and Qualifications
+
+Trained or Experienced and Certified in cloud platforms:
+Linux System Administration (Primary)
+Microsoft Azure (Secondary)
+AWS, Google Cloud Platform, Oracle Cloud Infrastructure, OpenStack (optional)
+Expertise in one or more of the following technical domains: Windows, Database, Storage, Networks, Scripting, Security (optional)
+Ability to learn and adapt to new frameworks/technologies and quickly integrate with them for automation service delivery
+Able to find effective workarounds to product limitations/constraints
+Team worker with strong ownership and drive
+Previous experience in infrastructure or software automation delivery
+DevOps & Agile methodology experience, working with small agile teams, is a plus
+Experience with the following operational tools, concepts & technologies as required:
+
+Work within the team to deliver a multi-skilled capability across multiple technologies and disciplines, participate in continuous upskill and training to maintain individual and team skills such as:
+
+Cloud systems configuration and management tools (optional)
+Azure Resource Manager (ARM)
+Azure OMS
+Cloud Checker
+CrowdStrike (Anti-Virus)
+AWS CloudFormation (optional)
+Scripting - bash, ksh, Python, Windows batch, PowerShell scripting, JavScript
+Web Services & API integrations using REST, SOAP, Perl, PHP, HTML, XML, XSLT (optional)
+Experience with continuous configuration automation/orchestration tools (optional)
+Ansible, Chef, Puppet
+Git/Github, Jenkins
+Docker, Kubernetes
+Software Defined Networking
+Jira Agile Project management tools (optional)
+Confluence Wiki documentation (optional)
